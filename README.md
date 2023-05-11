@@ -39,6 +39,7 @@
 
 ![image](https://github.com/Gopikapothen/Super-market-management-system-Python-and-MySQL/assets/83344741/eba0fc47-05f7-4e8e-89e9-91c855538c08)
   
+  
  DATABASE DESIGN 
  
 ![image](https://github.com/Gopikapothen/Super-market-management-system-Python-and-MySQL/assets/83344741/28f0a37a-7420-45b8-9bbc-eea7debf2201)
